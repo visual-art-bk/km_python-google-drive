@@ -1,0 +1,15 @@
+.logs
+
+.vscode
+
+myenv
+
+client_secret_25330986693-8p3ts69a8maes506075m6ahuk9nhj5pl.apps.googleusercontent.com
+
+*.json
+
+*.csv
+
+__pycache__
+
+**/__pycache__
