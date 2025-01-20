@@ -1,5 +1,5 @@
-from .google_drive import google_drive_main
+from .lambda_function import lambda_handler
 
 __all__ = [
-    'google_drive_main'
+    'lambda_handler'
 ]

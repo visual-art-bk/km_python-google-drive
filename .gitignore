@@ -13,3 +13,18 @@ client_secret_25330986693-8p3ts69a8maes506075m6ahuk9nhj5pl.apps.googleuserconten
 __pycache__
 
 **/__pycache__
+
+package
+
+layer
+
+*.zip
+
+lambda_function.py
+
+lambda_packages_layer.sh
+
+package_files
+
+numpy_layer
+
